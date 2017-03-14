@@ -1,0 +1,141 @@
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\ApplicationInsights.config
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\csc.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\vbc.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll.config
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.pdb
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Web.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Newtonsoft.Json.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Owin.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Web.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Newtonsoft.Json.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.csprojResolveAssemblyReference.cache
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.pdb
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\ApplicationInsights.config
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\csc.exe
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\vbc.exe
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll.config
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.pdb
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Web.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Newtonsoft.Json.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Owin.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.Web.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\bin\Newtonsoft.Json.xml
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.csprojResolveAssemblyReference.cache
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.dll
+C:\Users\Eser\Documents\GitHub\WebSoket_IpMesaj\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.pdb
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\ApplicationInsights.config
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\csc.exe
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\vbc.exe
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll.config
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\WebSoket_IpMesaj.pdb
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.Web.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Newtonsoft.Json.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Owin.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.Web.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Microsoft.Owin.Security.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\bin\Newtonsoft.Json.xml
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.csprojResolveAssemblyReference.cache
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.dll
+C:\Users\Eser\Desktop\WebSoket_IpMesaj-master\WebSoket_IpMesaj\obj\Debug\WebSoket_IpMesaj.pdb
